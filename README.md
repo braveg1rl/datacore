@@ -1,5 +1,7 @@
 # datacore [![Build Status](https://travis-ci.org/meryn/datacore.png?branch=master)](https://travis-ci.org/meryn/datacore) [![Dependency Status](https://david-dm.org/meryn/datacore.png)](https://david-dm.org/meryn/datacore)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/datacore.svg)](https://greenkeeper.io/)
+
 Evented in-memory database for single-page apps.
 
 ## Usage
